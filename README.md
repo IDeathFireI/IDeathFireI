@@ -1,6 +1,4 @@
-- 👋 Hello There Im DeathFire
-- 👀 I’m interested in this Java Coding and stuff with the goal learning it
-- 🌱 I’m currently going still tho a normal School
+- 👋 Hello There Im DeathFire i lost my old Git Hub Acc Lost the E-Mail :(
 - 📫 How to reach me on Discord: _death_fire_ 
 
 <!---
